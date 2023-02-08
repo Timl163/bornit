@@ -1,7 +1,7 @@
 {
   "name": "bornit",
   "version": "0.1.0",
-  "homepage": "https://timl163.github.io/bornit",
+  "homepage": "https://bornitfestival.de",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
