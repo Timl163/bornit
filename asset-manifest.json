@@ -1,16 +1,14 @@
 {
-  "main.css": "/static/css/main.8cdc9f4c.chunk.css",
-  "main.js": "/static/js/main.5f155be3.chunk.js",
-  "main.js.map": "/static/js/main.5f155be3.chunk.js.map",
-  "static/js/1.927bd4ba.chunk.js": "/static/js/1.927bd4ba.chunk.js",
-  "static/js/1.927bd4ba.chunk.js.map": "/static/js/1.927bd4ba.chunk.js.map",
-  "static/js/2.98a8b52d.chunk.js": "/static/js/2.98a8b52d.chunk.js",
-  "static/js/2.98a8b52d.chunk.js.map": "/static/js/2.98a8b52d.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.439225c8.js",
-  "runtime~main.js.map": "/static/js/runtime~main.439225c8.js.map",
-  "static/media/sommerfestival3.png": "/static/media/sommerfestival3.fff178a8.png",
-  "static/css/main.8cdc9f4c.chunk.css.map": "/static/css/main.8cdc9f4c.chunk.css.map",
-  "index.html": "/index.html",
-  "precache-manifest.d1ec3634bd18a9412038af29de94de7e.js": "/precache-manifest.d1ec3634bd18a9412038af29de94de7e.js",
-  "service-worker.js": "/service-worker.js"
+  "files": {
+    "main.css": "/static/css/main.c2cab247.css",
+    "main.js": "/static/js/main.bea38aab.js",
+    "static/media/bornit.svg": "/static/media/bornit.e26d49a24531f79da04e98295e6c4a4b.svg",
+    "index.html": "/index.html",
+    "main.c2cab247.css.map": "/static/css/main.c2cab247.css.map",
+    "main.bea38aab.js.map": "/static/js/main.bea38aab.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2cab247.css",
+    "static/js/main.bea38aab.js"
+  ]
 }
